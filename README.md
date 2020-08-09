@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 My name is Yan Maia and i'm a Front End developer! Currently, I am experiencing a major change in the area to become something that has always been present in my mind and in my heart.
 
-🔭 I am currently working on applications that use Html, Css and Javascript; 
-🚀 Recently started studies in UX / UI designer to deliver bigger and better projects;
-🌱 I'm currently learning CRUD applications, consumption of external API's, form creation and others; 
-💪 Hardskills: Figma, Adobe XD, ReactJs.
+- 🔭 I am currently working on applications that use Html, Css and Javascript; 
+- 🚀 Recently started studies in UX / UI designer to deliver bigger and better projects;
+- 🌱 I'm currently learning CRUD applications, consumption of external API's, form creation and others; 
+- 💪 Hardskills: Figma, Adobe XD, ReactJs.
