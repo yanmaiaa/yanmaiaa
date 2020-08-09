@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:yandamasceno01@gmail.com)
 
 
-**Hey! Welcome to my profile.** 🙋🏽‍♂️ 
+**Hey! Welcome to my profile.** 🙋🏽‍♂️ ,
+
 
 My name is Yan Maia and i'm a Front End developer! Currently, I am experiencing a major change in the area to become something that has always been present in my mind and in my heart.
 
