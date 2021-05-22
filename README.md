@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 **Hey! Welcome to my profile.** 🙋🏽‍♂️ ,
 
 
-My name is Yan Maia and i'm a Front End developer! Currently, I am experiencing a major change in the area to become something that has always been present in my mind and in my heart.
+My name is Yan Maia and i'm a Software Developer!
 
 - 🔭 I am currently learning to build Angular applications; 
 - 🚀 Recently started studies in UX / UI designer to deliver bigger and better projects;
-- 🌱 Learning CRUD applications, consumption of external API's, form creation and others using React JS; 
+- 🌱 CRUD applications, consumption of external API's, form creation and others using React JS and Angular; 
 - 💪 Figma, Adobe XD, React Js and Angular.
 
 <h2>Tecnologies & Tools 🚀</h2>
