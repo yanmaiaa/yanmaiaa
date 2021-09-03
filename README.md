@@ -53,13 +53,13 @@ My name is Yan Maia and i'm a Software Developer!
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 <h2>GitHub Status :chart_with_upwards_trend:</h2>
-
-![readme badge](https://github-readme-stats.vercel.app/api?username=yanmaiaa&theme=blue-green)
-![Stats badge](https://github-readme-stats.vercel.app/api/top-langs/?username=yanmaiaa&theme=blue-green)
-
+<div>
+  <a href="https://github.com/yanmaiaa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanmaiaa&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmaiaa&layout=compact&langs_count=16&theme=highcontrast"/>
+</div>
 <h2>Social Media</h2>
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yanmaiaa)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-maia-b09546119/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yandamasceno01@gmail.com)
-
