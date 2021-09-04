@@ -55,8 +55,8 @@ My name is Yan Maia and i'm a Software Developer!
 <h2>GitHub Status :chart_with_upwards_trend:</h2>
 <div>
   <a href="https://github.com/yanmaiaa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanmaiaa&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmaiaa&layout=compact&langs_count=16&theme=highcontrast"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanmaiaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmaiaa&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <h2>Social Media</h2>
 
