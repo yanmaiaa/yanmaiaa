@@ -51,6 +51,7 @@ My name is Yan Maia and i'm a Software Developer!
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 <h2>GitHub Status :chart_with_upwards_trend:</h2>
 <div>
