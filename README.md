@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 My name is Yan Maia and i'm a Software Developer!
 
-- 🔭 I am currently learning to build Angular applications; 
-- 🚀 Recently started studies in UX / UI designer to deliver bigger and better projects;
+- 🔭 I am currently learning to build Angular Full Stack applications; 
+- 🚀 Started studies in UX / UI designer to deliver bigger and better projects;
 - 🌱 CRUD applications, consumption of external API's, form creation and others using React JS and Angular; 
-- 💪 Figma, Adobe XD, React Js and Angular.
+- 💪 Figma, Adobe XD, React Js, Angular, Spring Boot, MySQL, MongoDB and others.
 
 <h2>Tecnologies & Tools 🚀</h2>
 
