@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 Meu nome é Yan Maia e eu sou um Desenvolvedor de Software Full Stack que utiliza como principais linguagens o Java para desenvolvimento no back end, o Typescript através do Angular para o front end e o pl/sql na camada do banco de dados. Quer conhecer os meus projetos de estudos? É só dá uma olhada, fique à vontade! 😄
 
 
-<h2>Tecnologies & Tools 🚀</h2>
+<h2>Ferramentas & Tecnologias 🚀</h2>
 
 ![IntelliJ Idea Badge](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -49,13 +49,13 @@ Meu nome é Yan Maia e eu sou um Desenvolvedor de Software Full Stack que utiliz
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-<h2>GitHub Status :chart_with_upwards_trend:</h2>
+<h2>Status do GitHub :chart_with_upwards_trend:</h2>
 <div>
   <a href="https://github.com/yanmaiaa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanmaiaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmaiaa&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
-<h2>Social Media</h2>
+<h2>Mídias Sociais</h2>
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yanmaiaa)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-maia-b09546119/)
