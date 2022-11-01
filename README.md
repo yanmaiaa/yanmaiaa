@@ -19,15 +19,11 @@ Here are some ideas to get you started:
 ![Linux Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-**Hey! Welcome to my profile.** 🙋🏽‍♂️ ,
+**Olá! Seja bem vindo ao meu perfil.** 🙋🏽‍♂️ ,
 
 
-My name is Yan Maia and i'm a Software Developer!
+Meu nome é Yan Maia e eu sou um Desenvolvedor de Software Full Stack que utiliza como principais linguagens o Java para desenvolvimento no back end, o Typescript através do Angular para o front end e o pl/sql na camada do banco de dados. Quer conhecer os meus projetos de estudos? É só dá uma olhada, fique à vontade! 😄
 
-- 🔭 I am currently learning to build Angular applications; 
-- 🚀 Recently started studies in UX / UI designer to deliver bigger and better projects;
-- 🌱 CRUD applications, consumption of external API's, form creation and others using React JS and Angular; 
-- 💪 Figma, Adobe XD, React Js and Angular.
 
 <h2>Tecnologies & Tools 🚀</h2>
 
