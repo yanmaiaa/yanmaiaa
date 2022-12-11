@@ -52,6 +52,7 @@ Meu nome é Yan Maia e eu sou um Desenvolvedor de Software Full Stack que utiliz
 ![Pl/Sql Badge](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![Junit Badge](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 <h2>Status do GitHub :chart_with_upwards_trend:</h2>
 <div>
